@@ -1,0 +1,19 @@
+,Abbreviation,Meaning
+0,Player,Name
+1,Pos,Position
+2,Game,Games Played
+3,GS,Games Started
+4,FG,Field Goals Made
+5,3P,3 Pointers Made
+6,FT,Free Throws Made
+7,DRB,Defensive Rebounds
+8,TRB,Total Rebounds
+9,Assist,Assists Per Game
+10,STL,Steals per Game
+11,BLK,Blocks Per Game
+12,TOV,Turnovers per Game
+13,Age,Age
+14,MP,Minutes Played per Game
+15,PF,Personal Fouls
+16,Point,Points per Game
+17,salary,Salary for 2018-2019 season
